@@ -1,0 +1,14 @@
+{
+  "name": "pixel-perfect",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "parcel public/index.html",
+    "build": "parcel build public/index.html"
+  },
+  "author": "Somaraju Indukuri",
+  "license": "ISC",
+  "dependencies": {
+    "pixel-perfect": "file:"
+  }
+}
